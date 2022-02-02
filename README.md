@@ -46,4 +46,5 @@ https://github.com/08A17106/The-Chaos-Node/tree/unfinished
     * [属性](基础规则/属性.md)
     * [奇术](基础规则/奇术.md)
     * 技能
+    * [战斗](基础规则/战斗.md)
     * [奇术扩展](基础规则/奇术扩展.md)
