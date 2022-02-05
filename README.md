@@ -53,3 +53,4 @@ https://github.com/08A17106/The-Chaos-Node/tree/unfinished
     * [技能](基础规则/技能.md)
     * [战斗](基础规则/战斗.md)
     * [奇术扩展](基础规则/奇术扩展.md)
+    * [基础规则离线下载合集](基础规则/基础规则.pdf)
