@@ -55,4 +55,4 @@ https://github.com/08A17106/The-Chaos-Node/tree/unfinished
     * [奇术扩展](基础规则/奇术扩展.md)
     * [基础规则离线下载合集](基础规则/基础规则.pdf)
 * 人物卡
-    * [TCN半自动卡](TCN半自动卡/tcn半自动人物卡0.1.2.xlsx)
+    * [TCN半自动卡](TCN半自动卡/tcn半自动人物卡v0.1.2.xlsx)
