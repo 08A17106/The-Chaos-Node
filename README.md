@@ -56,3 +56,6 @@ https://github.com/08A17106/The-Chaos-Node/tree/unfinished
     * [基础规则离线下载合集](基础规则/基础规则.pdf)
 * 资源
     * [常规武器](资源/常规武器.md)
+* 人物卡
+    * [TCN半自动卡](TCN半自动卡/tcn半自动人物卡v0.1.2.xlsx)
+
