@@ -24,6 +24,13 @@ https://github.com/08A17106/The-Chaos-Node
 最新更新的内容（可能还未完善）将会发表在unfinished分支，在每完善一个模块后将会把内容合并到main分支。
 https://github.com/08A17106/The-Chaos-Node/tree/unfinished
 
+国内阅读：
+gitee同步，在线md文档可直接看，下载需注册
+https://gitee.com/human-society/The-Chaos-Node
+
+坚果云主支同步，在线md文档可直接看，下载需注册，这个注册比较快
+https://www.jianguoyun.com/p/DTEUjIMQ44mnChj4qq4E
+
 每完成一个模块后，将会发表一个此模块的pdf合集文档在同一层文件夹下方便下载进行离线阅读。
 
 如果有什么想要交流的内容，欢迎在issues中留言。
