@@ -70,5 +70,5 @@ https://www.jianguoyun.com/p/DTEUjIMQ44mnChj4qq4E
     * [常规武器](资源/常规武器.md)
     * [魔法1](资源/魔法1.md)
 * 人物卡
-    * [TCN半自动卡](TCN半自动卡/tcn半自动人物卡v0.1.2.xlsx)
+    * [TCN半自动卡](TCN半自动卡/tcn半自动人物卡v0.1.3.xlsx)
 
