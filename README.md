@@ -60,7 +60,7 @@ https://www.jianguoyun.com/p/DTEUjIMQ44mnChj4qq4E
 
 文字作品请发布在[故事分支](https://github.com/08A17106/The-Chaos-Node/tree/story)下的[故事文件夹](https://github.com/08A17106/The-Chaos-Node/tree/story/%E6%95%85%E4%BA%8B)中。相关内容见[故事相关](故事/简介及说明.md)
 
-
+模组请发布在[模组分支](https://github.com/08A17106/The-Chaos-Node/tree/mod)下的[故事文件夹](https://github.com/08A17106/The-Chaos-Node/tree/mod/模组)中。相关内容见[关于模组](模组/关于模组.md)
 
 ### 网络乞丐部分
 
@@ -107,4 +107,5 @@ https://www.jianguoyun.com/p/DTEUjIMQ44mnChj4qq4E
     * [TCN半自动卡](TCN半自动卡/tcn半自动人物卡v0.1.4.xlsx)
 * 故事
     * [故事相关](故事/简介及说明.md)
-
+* 模组
+    * [关于模组](模组/关于模组.md)
