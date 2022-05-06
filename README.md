@@ -50,6 +50,18 @@ https://www.jianguoyun.com/p/DTEUjIMQ44mnChj4qq4E
 
 除通用设定与通用规则，其余规则，设定，资源仅在对应世设中有效。
 
+### 文章与模组发布
+
+新增 
+
+故事 https://github.com/08A17106/The-Chaos-Node/tree/story  
+
+和 模组 https://github.com/08A17106/The-Chaos-Node/tree/mod 分支。
+
+文字作品请发布在[故事分支](https://github.com/08A17106/The-Chaos-Node/tree/story)下的[故事文件夹](https://github.com/08A17106/The-Chaos-Node/tree/story/%E6%95%85%E4%BA%8B)中。相关内容见[故事相关](故事/简介及说明.md)
+
+
+
 ### 网络乞丐部分
 
 如果觉得这个项目对你有很大帮助，或者你十分喜爱这个项目以至于你想要给予作者一定金钱上的支持以推进项目的进行，你可以可以选择对作者进行打赏[^1]，下一个合集文档中的致谢部分将会po出打赏名单（如果真的有人打赏的话）甚至是加入你的梗（如果你不想自己写个文档的话）。
@@ -93,4 +105,6 @@ https://www.jianguoyun.com/p/DTEUjIMQ44mnChj4qq4E
         * [疆域](主宇宙设定/文明/疆域.md)
 * 人物卡
     * [TCN半自动卡](TCN半自动卡/tcn半自动人物卡v0.1.4.xlsx)
+* 故事
+    * [故事相关](故事/简介及说明.md)
 
