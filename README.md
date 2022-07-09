@@ -25,8 +25,6 @@ https://github.com/08A17106/The-Chaos-Node
 https://github.com/08A17106/The-Chaos-Node/tree/unfinished
 
 国内阅读：
-gitee同步，在线md文档可直接看，下载需注册
-https://gitee.com/human-society/The-Chaos-Node
 
 坚果云主支同步，在线md文档可直接看，下载需注册，这个注册比较快
 https://www.jianguoyun.com/p/DTEUjIMQ44mnChj4qq4E
