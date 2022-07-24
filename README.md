@@ -105,5 +105,6 @@ https://www.jianguoyun.com/p/DTEUjIMQ44mnChj4qq4E
     * [TCN半自动卡](TCN半自动卡/tcn半自动人物卡v0.1.4.xlsx)
 * 故事
     * [故事相关](故事/简介及说明.md)
+    * [罗恩的一天](故事/罗恩的一天.md)
 * 模组
     * [关于模组](模组/关于模组.md)
