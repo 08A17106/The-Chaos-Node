@@ -48,17 +48,19 @@ https://www.jianguoyun.com/p/DTEUjIMQ44mnChj4qq4E
 
 除通用设定与通用规则，其余规则，设定，资源仅在对应世设中有效。
 
-### 文章与模组发布
+### 同人内容提交
 
-新增 
+1. 将分支选到unfinished，确定unfinished分支里有你要发表的内容对应类别的文件夹
+2. 向作者本人发起项目合作者请求，包括在issues里留言或者加入qq群（群号在页底注释）
+3. 若unfinished分支里没有你要发表的内容的文件夹分类，在留言中提出你想要一个什么样的文件夹和他的路径
+4. 作者这边在收到请求后在最迟一周内会给拉入项目合作者
+5. 分支选到unfinished，从unfinished创建一个新分支，名称为发表内容类别的英文。
+6. 将你新建的分支拉到本地，把你的作品放到对应的地方去。如果这个时候还没有对应文件夹，按你之前说的路径自己建。
+7. 把修改过的分支推送上去。
+8. 作者会审核分支，如果有问题会告知，如果没有问题，将会合并后删除。
+9. 你会在unfinished和main分支里看到你的内容。
 
-故事 https://github.com/08A17106/The-Chaos-Node/tree/story  
-
-和 模组 https://github.com/08A17106/The-Chaos-Node/tree/mod 分支。
-
-文字作品请发布在[故事分支](https://github.com/08A17106/The-Chaos-Node/tree/story)下的[故事文件夹](https://github.com/08A17106/The-Chaos-Node/tree/story/%E6%95%85%E4%BA%8B)中。相关内容见[故事相关](故事/简介及说明.md)
-
-模组请发布在[模组分支](https://github.com/08A17106/The-Chaos-Node/tree/mod)下的[故事文件夹](https://github.com/08A17106/The-Chaos-Node/tree/mod/模组)中。相关内容见[关于模组](模组/关于模组.md)
+目前已有模组和故事文件夹，发表模组的分支命名为mod，发表故事的文件夹命名为story，如果已经有同名分支，命名分支时在单词后面顺序加数字。
 
 ### 网络乞丐部分
 
@@ -102,7 +104,8 @@ https://www.jianguoyun.com/p/DTEUjIMQ44mnChj4qq4E
     * 文明 
         * [疆域](主宇宙设定/文明/疆域.md)
 * 人物卡
-    * [TCN半自动卡](TCN半自动卡/tcn半自动人物卡v0.1.4.xlsx)
+    * [TCN半自动卡](TCN半自动卡/tcn半自动人物卡v0.1.5.xlsx)
+    * [快速车卡与检定指南](TCN半自动卡/快速车卡与检定指南.md)
 * 故事
     * [故事相关](故事/简介及说明.md)
 * 模组
