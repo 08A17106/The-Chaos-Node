@@ -111,3 +111,4 @@ https://www.jianguoyun.com/p/DTEUjIMQ44mnChj4qq4E
     * [出于蛮荒](故事/出于蛮荒.md)
 * 模组
     * [关于模组](模组/关于模组.md)
+    * [军训异闻录](模组/军训异闻录.docx)
