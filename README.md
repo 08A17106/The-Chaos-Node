@@ -104,7 +104,7 @@ https://www.jianguoyun.com/p/DTEUjIMQ44mnChj4qq4E
     * 文明 
         * [疆域](主宇宙设定/文明/疆域.md)
 * 人物卡
-    * [TCN半自动卡](TCN半自动卡/tcn半自动人物卡v0.1.5.xlsx)
+    * [TCN半自动卡](TCN半自动卡/tcn半自动人物卡v0.1.6.xlsx)
     * [快速车卡与检定指南](TCN半自动卡/快速车卡与检定指南.md)
 * 故事
     * [故事相关](故事/简介及说明.md)
