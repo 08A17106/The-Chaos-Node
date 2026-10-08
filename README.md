@@ -106,6 +106,7 @@ https://github.com/The-Chaos-Node-Expanded-Universe
 * 资源
     * [资源指南](资源/资源指南.md) 
     * [常规武器](资源/常规武器.md)
+    * [模块武器](资源/模块武器.md)
     * [战技](资源/战技.md)
     * [魔法1](资源/魔法1.md)
     * [魔法2](资源/魔法2.md)
